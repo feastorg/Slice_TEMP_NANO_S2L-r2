@@ -6,7 +6,7 @@ name: "Slice Template — Nano, Small, 2-Layer, Rev 2"
 status: "released"
 category: "template"
 
-summary: "Starter template for BREAD slices using Arduino Nano on a small 2-layer PCB (70x100mm), second revision."
+summary: "Starter template for BREADS-compatible Slices using Arduino Nano on a small 2-layer PCB (70x100mm), second revision."
 description: null
 
 # ── Versioning ────────────────────────────────────────────────────────────────
