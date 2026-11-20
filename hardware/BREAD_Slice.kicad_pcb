@@ -249,7 +249,7 @@
 				)
 			)
 		)
-		(property "Value" "1N4007"
+		(property "Value" "SM4007PL"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "c7bf0afa-bc74-43d7-9ab3-a879c562b413")
@@ -316,7 +316,7 @@
 		(path "/a4d66d05-b498-454f-8d54-68b671c284b9/72002d9d-afeb-497c-aeae-4335dbd4fe90")
 		(sheetname "/slice_template/")
 		(sheetfile "slice_template.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -2.21 1)
@@ -598,7 +598,7 @@
 		(path "/a4d66d05-b498-454f-8d54-68b671c284b9/6c120bbe-a53a-424a-94e1-55b510bb55f6")
 		(sheetname "/slice_template/")
 		(sheetfile "slice_template.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -2.345563 3.41)
@@ -2441,7 +2441,7 @@
 		(path "/a4d66d05-b498-454f-8d54-68b671c284b9/19edb68e-4fcc-4100-ade6-9d4e4f01ad86")
 		(sheetname "/slice_template/")
 		(sheetfile "slice_template.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.261252 0.735)
@@ -5650,7 +5650,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "22u 10V"
 			(at 0 -1.85 0)
 			(layer "B.Fab")
 			(uuid "3f847039-bd56-47bd-a65e-252b66b3ab1f")
@@ -6577,7 +6577,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "22u 10V"
 			(at 0 -1.85 0)
 			(layer "B.Fab")
 			(uuid "ba70ea17-46f0-4ad7-b71b-3c39aa62c516")
@@ -6782,7 +6782,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10u 25V"
 			(at 0 -1.85 0)
 			(layer "B.Fab")
 			(uuid "bc408c8b-501d-4c93-b8f6-49a973da6de8")
@@ -6987,7 +6987,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "4.7uH"
+		(property "Value" "4.7uH Isat>=1.4A"
 			(at 0 -2.28 180)
 			(layer "B.Fab")
 			(uuid "f999fb15-c6b0-4900-a6fd-facedab6c9d5")
